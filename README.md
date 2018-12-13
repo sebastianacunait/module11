@@ -23,7 +23,7 @@ The algorithm consist in four steps
 
 ## Step 1 - Multiply digits with the sequence
 
-|                |                               |                             | | | | | | |
+
 |----------------|-------------------------------|-----------------------------|-|-|-|-|-|-|
 |**Number test** |      1                        |      5                      |6 |4 |6 |8 |6| 1| 
 |**Sequence**    |   2                           |   3                         |4 |5 |6 | 7| 2|3|
