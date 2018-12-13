@@ -29,18 +29,30 @@ The algorithm consist in four steps
 |**Sequence**    |   2                           |   3                         |4 |5 |6 | 7| 2|3|
 |**RESULT**      |**2**                          |**15**                       |**24** |**20** |**36**|**56** |**12** |**3**|
 
+
+
+
 ## Step 2 - Sum all results
 
 $$ 2+15+24+20+36+56+12+3 = 168$$
+
+
+
 
 ## Step 3 - Calculate module 11
 
 $$ 168 mod 11 = 3$$ 
 
+
+
+
 ## Step 4 - Subtract 11 to result
 
 $$11- 3= 8$$**That means the control digit it is 8.**
 > If we change a number of the test sequenece 15646861 the control digit will change
+
+
+
 
 ## Notes
   
