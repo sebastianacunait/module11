@@ -29,6 +29,8 @@ The algorithm consist in four steps
 |**Sequence**    |   2                           |   3                         |4 |5 |6 | 7| 2|3|
 |**RESULT**      |**2**                          |**15**                       |**24** |**20** |**36**|**56** |**12** |**3**|
 
+> If the length of the test sequence is less than the sequence, just repeat the sequenece, in this case we repeat 2 and 3.
+
 
 
 
