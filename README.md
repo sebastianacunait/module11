@@ -58,4 +58,4 @@ The algorithm consist in four steps
 
 ## Notes
   
-The application of this algorithm is varied, from barcode to identification cards of Chile where sometimes we will see a K or a 0 instead of the digit 11 and 10.
+The application of this algorithm is varied, from barcode to identification cards of Chile where sometimes we will see a K or a 0 instead of the digit 10 and 11.
