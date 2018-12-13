@@ -34,7 +34,7 @@ The algorithm consist in four steps
 
 ## Step 2 - Sum all results
 
-$$ 2+15+24+20+36+56+12+3 = 168$$
+$$2+15+24+20+36+56+12+3=168$$
 
 
 
