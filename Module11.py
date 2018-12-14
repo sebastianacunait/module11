@@ -3,7 +3,6 @@
 module11Sequence = [2,3,4,5,6,7]
 testS = [1,5,6,4,6,8,6,1]
 
-
 class Module11:
     
     def __init__(self,array):
