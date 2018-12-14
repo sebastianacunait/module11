@@ -39,20 +39,20 @@ public class Module11{
 		int j = 0;
 		int s = 0;
 		for(int i= array.Length -1; i>=0; i--){
-            //Step 1
-            multiplication[j]= module11Sequence[s] * array[i];
-            //Step 2
-            sum = sum +multiplication[j];
-            s++;
-            j++;
-            // If the sequence reach 6 the cycle repeats
-            if(j % 6 == 0 && j!= 0){
-                s = 0;
-            }
-        }
-        double step3 = sum % 11;
-        double step4 = 11 - step3;
-        return step4;
+		    //Step 1
+		    multiplication[j]= module11Sequence[s] * array[i];
+		    //Step 2
+		    sum = sum +multiplication[j];
+		    s++;
+		    j++;
+		    // If the sequence reach 6 the cycle repeats
+		    if(j % 6 == 0 && j!= 0){
+			s = 0;
+		    }
+        	}
+		double step3 = sum % 11;
+		double step4 = 11 - step3;
+        	return step4;
 	}
 	
 }
