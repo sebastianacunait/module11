@@ -35,7 +35,7 @@ The algorithm consist in four steps
 
 
 ## Step 2 - Sum all results
-3 + 10 + 42 + 24 + 30 + 32 + 18 + 2 = **16**
+3 + 10 + 42 + 24 + 30 + 32 + 18 + 2 = **161**
 
 
 
