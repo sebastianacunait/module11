@@ -29,7 +29,7 @@ The algorithm consist in four steps
 |**Sequence**    |   3                           |   2                         |7 |6 |5 | 4| 3|2|
 |**RESULT**      |**3**                          |**10**                       |**42** |**24** |**30**|**32** |**18** |**2**|
 
-> If the length of the test sequence is less than the sequence, just repeat the sequenece, in this case we repeat 2 and 3.
+> If the length of the test sequence is less than the sequence, just repeat the sequence, in this case we repeat 2 and 3.
 
 
 
