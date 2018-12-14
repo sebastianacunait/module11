@@ -1,15 +1,13 @@
 using System;
 					
-public class Module11
-{
+public class Module11{
+	
 	private static int[] module11Sequence = new int[] {2,3,4,5,6,7};
 	private static int[] test = new int[] {1,5,6,4,6,8,6,1};
 	
-	public static void Main()
-	{
+	public static void Main(){
 		double digit = getControlDigit(test);
 		Console.WriteLine(digit);
-
 	}
 	
 	public static double getControlDigit(int[] array){
