@@ -35,22 +35,22 @@ The algorithm consist in four steps
 
 
 ## Step 2 - Sum all results
-2 + 15 + 24 + 20 + 36 + 56 + 12 + 3 = **168**
+3 + 10 + 42 + 24 + 30 + 32 + 18 + 2 = **16**
 
 
 
 
 ## Step 3 - Calculate module 11
- **168** mod 11 = **3** 
+ **161** mod 11 = **7** 
 
 
 
 
 ## Step 4 - Subtract 11 to result
 
-11 - **3** = **8**
+11 - **7** = **4**
 
-**That means the control digit it is 8.**
+**That means the control digit it is 4.**
 > If we change a number of the test sequenece 15646861 the control digit will change
 
 
