@@ -56,8 +56,3 @@ class Module11:
 module = Module11(testS)
 digit = module.getControlDigit()
 print digit
-
-
-
-    
-    
