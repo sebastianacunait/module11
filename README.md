@@ -50,7 +50,7 @@ The algorithm consist in four steps
 
 11 - **7** = **4**
 
-**That means the control digit it is 4.**
+**That means the control digit is 4.**
 > If we change a number of the test sequenece 15646861 the control digit will change
 
 
